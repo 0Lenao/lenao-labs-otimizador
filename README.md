@@ -9,6 +9,13 @@ Identidade visual baseada nas cores de **www.lenaolabs.com.br** (grafite-violeta
 
 Site: https://www.lenaolabs.com.br
 
+## Download público
+
+**https://github.com/0Lenao/lenao-labs-otimizador/releases/latest**
+
+(Link direto para o ZIP da versão 1.2.0:
+https://github.com/0Lenao/lenao-labs-otimizador/releases/download/v1.2.0/Lenao.Labs.Otimizador.v1.2.0.zip)
+
 ## Qual executável abrir?
 
 | Arquivo | Para que serve |
